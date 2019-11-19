@@ -1,0 +1,92 @@
+.first{
+    height: 100px;
+    background-color: white;
+
+}
+.bottom{
+    background-color: lightslategray;;
+}
+.second{
+    height: auto;
+    width: auto;
+    
+}
+.courses{
+    height: 50px;
+    background-color: darkgreen;
+    color: white;
+    font-size: x-large;
+    padding: 10px;
+}
+.text2{
+    height: auto;
+    background-color: darkgreen;
+    color: white;
+    font-size: x-large;
+    padding: 10px;
+}
+.container{
+    border-style: solid;
+    border-width: medium;;
+    padding: 25px;
+    min-width: 600px;
+    min-height: 600px;
+     box-sizing: border-box;
+     margin: 20px;
+    background-color: white;
+
+    
+}
+.row1{height: auto;}
+.row2{height: auto;}
+.col-sm-2{
+    border-style: solid;
+    border-color: gray;
+    border-width: medium;;
+    margin: 20px;
+    padding: 25px;
+    float: left;
+   
+}
+    
+.col-sm-8{
+    border-style: solid;
+    border-color: gray;
+    margin: 20px;
+    float: left;
+   
+   padding: 25px;
+   width: 45%;
+    
+}
+.col-sm-12{
+    border-style: solid;
+    border-color: gray;
+    margin: 20px;
+    float: left;
+    padding: 25px;
+    width: 45%;
+    
+   
+}
+.col-sm-9{
+    border-style: solid;
+    border-color: gray;
+    margin: 20px;
+    float: left;
+    padding: 25px;
+    width: 45%;
+    
+.column3{
+    height: 400px;
+    width: 300px;
+    border-style: solid;
+    border-color: gray;
+}
+
+.carousel-inner {
+    width: 300px;
+    height: 400px;
+    float: center;
+}
+
